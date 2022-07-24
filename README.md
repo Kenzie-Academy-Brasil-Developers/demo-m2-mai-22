@@ -10,7 +10,7 @@ Esse é o repositório **onde ficarão salvos os arquivos e códigos construído
 
 ## Sumário
 
-- Branch [nome_da_branch_1](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22)
+- Branch [nome_da_branch_1](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/branch_1)
   - `tag_1`, `tag_2`
-- Branch [nome_da_branch_2](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22)
+- Branch [nome_da_branch_2](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/branch_2)
   - `tag_3`, `tag_4`, `tag_5`
