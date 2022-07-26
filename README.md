@@ -1,16 +1,10 @@
 ![](assets/20220724_115932_CodeIgualUmKenzie.png)
 
-# Branch_1
+# Métodos de String
 
-`tag_1`, `tag_2`
+`Métodos Javascript`, `Métodos de String`
 
 ## To-Do List
 
-- Demo **segunda-feira** (dd-mm-aa)
-  - [ ] Assunto 01
-  - [ ] Assunto 02
-  - [ ] Assunto 03
-- Demo **terça-feira** (dd-mm-aa)
-  - [ ] Assunto 04
-  - [ ] Assunto 05
-  - [ ] Assunto 06
+- Demo **quarta-feira** (27-06-22)
+  - [ ] Métodos de String
