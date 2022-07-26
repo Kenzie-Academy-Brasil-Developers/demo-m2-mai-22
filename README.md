@@ -1,16 +1,12 @@
 ![](assets/20220724_115932_CodeIgualUmKenzie.png)
 
-# Branch_1
+# Programação Funcional
 
-`tag_1`, `tag_2`
+`Funções`, `Callback`, `Programação Funcional`
 
 ## To-Do List
 
-- Demo **segunda-feira** (dd-mm-aa)
-  - [ ] Assunto 01
-  - [ ] Assunto 02
-  - [ ] Assunto 03
-- Demo **terça-feira** (dd-mm-aa)
-  - [ ] Assunto 04
-  - [ ] Assunto 05
-  - [ ] Assunto 06
+- Demo **Terça-feira** (25-07-2022)
+  - [ ] Funções e seus Retornos
+  - [ ] Programação Funcional
+  - [ ] Callbacks
