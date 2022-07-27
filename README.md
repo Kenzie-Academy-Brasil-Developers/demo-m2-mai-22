@@ -6,7 +6,8 @@
 
 ## To-Do List
 
-- Demo **Terça-feira** (25-07-2022)
+- Demo **Terça-feira** (26-07-2022)
   - [x] Funções e seus Retornos
   - [x] Programação Funcional
-  - [ ] Callbacks
+- Demo **Quarta-feira** (27-07-2022)
+  - [x] Callbacks
