@@ -7,4 +7,4 @@
 ## To-Do List
 
 - Demo **quarta-feira** (27-06-22)
-  - [ ] Métodos de String
+  - [x] Métodos de String
