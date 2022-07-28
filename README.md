@@ -7,4 +7,4 @@
 ## To-Do List
 
 - Demo **quinta-feira** (28-06-22)
-  - [] Métodos de Array
+  - [ ] Métodos de Array
