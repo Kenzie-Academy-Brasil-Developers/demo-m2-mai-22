@@ -1,10 +1,11 @@
 ![](assets/20220724_115932_CodeIgualUmKenzie.png)
 
-# Métodos de Array
+# Revisão de Objetos
 
-`Métodos Javascript`, `Métodos de Array`
+`Objetos`, `Debugging`
 
 ## To-Do List
 
-- Demo **quinta-feira** (28-06-22)
-  - [ ] Métodos de Array
+- Demo **sexta-feira** (29-06-22)
+  - [ ] Objetos
+  - [ ] Debugging
