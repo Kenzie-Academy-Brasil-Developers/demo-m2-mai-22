@@ -173,14 +173,29 @@ function testarSort() {
         } else if (categoriaA < categoriaB) {
             return 1
         } else {
-            return 0
+            if (nomeA > nomeB) {
+                return -1
+            } else if (nomeB < nomeA) {
+                return 1
+            } else {
+                return 0
+            }
         }
     })
 
     console.log(arrayOrganizado)
 }
 
-testarSort();
+// testarSort();
+
+
+
+
+
+
+
+
+
 
 
 
