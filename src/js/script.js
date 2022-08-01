@@ -120,7 +120,7 @@ function testarExemplo1Reduce() {
     console.log(resultadoReduce)
 }
 
-testarExemplo1Reduce();
+// testarExemplo1Reduce();
 
 
 function testarExemplo2Reduce() {
@@ -154,6 +154,33 @@ function testarExemplo2Reduce() {
 // testarExemplo2Reduce();
 
 
+function testarSort() {
+    // const conjuntoDados = ["Victor", 10, "Augusto", 18]
+    // const arrayOrganizado = conjuntoDados.sort();
+    // console.log(arrayOrganizado)
+
+    // const arrayOrganizado = data.sort((a, b) => {
+    //     // return a.id - b.id
+    //     return b.id - a.id
+    // });
+
+    const arrayOrganizado = data.sort((a, b) => {
+        const categoriaA = a.categoria.toUpperCase();
+        const categoriaB = b.categoria.toUpperCase();
+
+        if (categoriaA > categoriaB) {
+            return -1
+        } else if (categoriaA < categoriaB) {
+            return 1
+        } else {
+            return 0
+        }
+    })
+
+    console.log(arrayOrganizado)
+}
+
+testarSort();
 
 
 
