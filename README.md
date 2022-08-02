@@ -14,3 +14,9 @@ Esse é o repositório **onde ficarão salvos os arquivos e códigos construído
   - `Funções`, `Callback`, `Programação Funcional`
 - Branch [metodos-string](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/methods-string)
   - `Métodos Javascript`, `Métodos de String`
+- Branch [metodos-array](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/methods-array)
+  - `Métodos Javascript`, `Métodos de Array`
+- Branch [revisao-objeto](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/revisao-objeto)
+  - `Objetos`, `Debugging`
+- Branch [objetos_spread](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/objetos_spread)
+  - `Objetos`, `Desconstrução`, `Spread`
