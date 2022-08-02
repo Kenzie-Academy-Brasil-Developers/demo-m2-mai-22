@@ -2,15 +2,11 @@
 
 # Branch_1
 
-`tag_1`, `tag_2`
+`Objetos`, `Desconstrução`, `Spread`
 
 ## To-Do List
 
-- Demo **segunda-feira** (dd-mm-aa)
-  - [ ] Assunto 01
-  - [ ] Assunto 02
-  - [ ] Assunto 03
-- Demo **terça-feira** (dd-mm-aa)
-  - [ ] Assunto 04
-  - [ ] Assunto 05
-  - [ ] Assunto 06
+- Demo **segunda-feira** (01-08-22)
+  - [x] Desconstrução
+  - [x] Spread
+  - [x] Métodos
