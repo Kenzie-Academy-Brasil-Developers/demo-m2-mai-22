@@ -7,5 +7,5 @@
 ## To-Do List
 
 - Demo **sexta-feira** (29-06-22)
-  - [ ] Objetos
-  - [ ] Debugging
+  - [x] Objetos
+  - [x] Debugging
