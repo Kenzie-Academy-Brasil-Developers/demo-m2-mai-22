@@ -1,0 +1,153 @@
+:root {
+  --white: #F6F6F7;
+  --primary: #006494;
+  --light-gray: #EEEEEE;
+  --gray: #9E9EA7;
+  --dark-gray: #666665;
+  --black: #0E0E0F
+}
+
+.container {
+  background: linear-gradient(to bottom, var(--primary) 65%, var(--white) 35%);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title__container {
+  color: var(--white);
+  width: 45%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+
+.title__icon {
+  width: 164px;
+}
+
+.title__container > h1 {
+  font-size: 1.75rem;
+  margin-bottom: 2rem;
+}
+
+.title__container > p {
+  font-size: 1.25rem;
+  margin-bottom: 3rem;
+}
+
+.form__container {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  height: 875px;
+  border: 5px solid var(--light-gray);
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form > h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.form > label {
+  font-size: 1.25rem;
+  color: var(--dark-gray);
+  margin-bottom: 8px;
+}
+
+.form input {
+  padding: 8px;
+  border: none;
+  border-radius: 6px;
+  background-color: var(--light-gray);
+}
+
+.form input::placeholder {
+  font-size: 1.15rem;
+  color: var(--gray);
+}
+
+.form span {
+  margin: 1rem 0;
+  color: var(--gray);
+}
+
+.form button {
+  margin: 2rem auto 0 auto;
+  padding: 0.75rem;
+  width: 280px;
+  max-width: 100%;
+  outline: none;
+  border: 1px solid var(--primary);
+  background-color: var(--primary);
+  border-radius: 6px;
+  color: var(--white);
+  font-size: 1.15rem;
+  transition: .6s;
+}
+
+.form__message {
+  margin: 2rem 0;
+  color: var(--gray);
+}
+
+.form__signup {
+  text-decoration: none;
+  color: var(--gray);
+  background-color: var(--light-gray);
+  border: 1px solid transparent;
+  width: 280px;
+  max-width: 100%;
+  padding: 0.75rem;
+  text-align: center;
+  font-size: 1.15rem;
+  border-radius: 6px;
+  transition: 0.6s;
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    flex-direction: row;
+    background: linear-gradient(to right, var(--primary), 65%, var(--white) 35%);
+  }
+
+  .form__container {
+    max-width: 600px;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5rem;
+  }
+
+  .form button:hover {
+    background-color: var(--white);
+    color: var(--primary);
+    cursor: pointer;
+  }
+
+  .form__signup:hover {
+
+    border: 1px solid var(--primary);
+    color: var(--primary);
+  }
+}
+
+@media (min-width: 1024px) {
+
+}
+
+@media (min-width: 1650px) {
+
+}

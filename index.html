@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="./src/style/normalize.css" />
+    <link rel="stylesheet" href="./src/style/reset.css" />
+    <link rel="stylesheet" href="./src/style/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <title>mini-demo-css</title>
+  </head>
+  <body>
+    <main class="container">
+      <section class="title title__container">
+        <img class="title__icon"'' src="./src/assets/todo_icon.svg" alt="icon" srcset="" />
+        <h1>O jeito fácil, grátis</h1>
+        <p>flexivel e atrativo de gerenciar suas tarefas</p>
+      </section>
+      <section class="form__container">
+        <form class="form">
+          <h2>Bem vindo de volta!</h2>
+          <label for="login">Login</label>
+          <input
+            type="text"
+            name="login"
+            id="login"
+            placeholder="Digite seu login"
+          />
+          <span>Ex. camila@julia.com</span>
+          <label for="password">Senha</label>
+          <input
+            type="password"
+            name="password"
+            id="password"
+            placeholder="Digite sua senha"
+          />
+          <button type="submit">Entrar</button>
+        </form>
+        <span class="form__message">ainda não possui conta?</span>
+        <a class="form__signup" href="#">Cadastrar</a>
+      </section>
+    </main>
+  </body>
+</html>
