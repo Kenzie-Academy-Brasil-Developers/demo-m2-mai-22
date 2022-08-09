@@ -20,3 +20,13 @@ Esse é o repositório **onde ficarão salvos os arquivos e códigos construído
   - `Objetos`, `Debugging`
 - Branch [objetos_spread](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/objetos_spread)
   - `Objetos`, `Desconstrução`, `Spread`
+- Branch [mini-demo-css](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/mini-demo-css)
+  - `Responsividade`, `Mobile-first`
+- Branch [toDo-list-pt1]()
+  - `Mobile-first`
+- Branch [toDo-list-pt2]()
+  - `DOM`
+- Branch [intro-POO]()
+  - `This`, `Classes`, `Constructor`
+- Branch [trabalhando-com-classe]()
+  - `Classes`, `Getters e Setters `
