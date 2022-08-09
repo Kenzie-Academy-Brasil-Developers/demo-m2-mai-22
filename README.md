@@ -28,5 +28,5 @@ Esse é o repositório **onde ficarão salvos os arquivos e códigos construído
   - `DOM`
 - Branch [intro-POO]()
   - `This`, `Classes`, `Constructor`
-- Branch [trabalhando-com-classe]()
+- Branch [trabalhando-com-classe](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/trabalhando-com-classe)
   - `Classes`, `Getters e Setters `
