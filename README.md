@@ -26,7 +26,7 @@ Esse é o repositório **onde ficarão salvos os arquivos e códigos construído
   - `Mobile-first`
 - Branch [toDo-list-pt2]()
   - `DOM`
-- Branch [intro-POO]()
+- Branch [intro-POO](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/intro-POO)
   - `This`, `Classes`, `Constructor`
 - Branch [trabalhando-com-classe](https://github.com/Kenzie-Academy-Brasil-Developers/demo-m2-mai-22/tree/trabalhando-com-classe)
   - `Classes`, `Getters e Setters `
